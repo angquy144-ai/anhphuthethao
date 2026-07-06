@@ -1,0 +1,2 @@
+<img src="images/worldcup1.jpg">
+<img src="images/worldcup2.jpg">
